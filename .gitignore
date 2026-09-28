@@ -1,0 +1,15 @@
+# CompiledLua
+lua/fantasy/*.so
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Neovim
+*.log
